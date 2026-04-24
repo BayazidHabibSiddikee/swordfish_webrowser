@@ -152,7 +152,6 @@ All user data is stored **locally** — nothing is sent anywhere.
 - [PySide6](https://pypi.org/project/PySide6/) — Qt6 Python bindings
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — media downloader
 - Python standard library only for the HTTP server (`socket`, `subprocess`, `threading`)
-- AVR toolchain — `avr-gcc`, `avr-objcopy`, `avrdude`
 
 ---
 
