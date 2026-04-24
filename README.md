@@ -52,9 +52,6 @@ swordfish/
 │
 ├── swordfish.sh      ← Linux launcher script
 ├── swordfish.desktop ← Linux app shortcut (.desktop entry)
-│
-└── dist/
-    └── SwordFish.exe ← Pre-built Windows executable
 ```
 
 ---
@@ -117,7 +114,7 @@ After running `requirements.sh` this is done automatically, but if you want to d
 # 1. Make the launcher executable
 chmod +x swordfish.sh
 
-# 2. Edit paths inside swordfish.desktop to match your folder
+# 2. Edit paths inside swordfish.desktop to match your folder if it doesn't work
 nano swordfish.desktop
 
 # 3. Copy to the applications folder
