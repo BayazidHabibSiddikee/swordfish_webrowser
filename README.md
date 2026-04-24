@@ -22,7 +22,7 @@
 
 ## What is SwordFish?
 
-SwordFish started as a learning project — a raw Python socket server serving HTML pages — and grew into a full browser + AVR microcontroller control plane. It runs your own local web server, renders pages in a Qt-based browser, and lets you compile and flash AVR chips (ATmega8, ATmega328P, ATmega32) directly from a web UI.
+SwordFish started as a learning project — a raw Python socket server serving HTML pages — and grew into a full browser. It runs your own local web server, renders pages in a Qt-based browser, and lets you download videos directly from a web UI.
 
 ---
 
