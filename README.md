@@ -90,7 +90,7 @@ cd swordfish_webrowser
 requirements.bat
 ```
 
-Or just download and run `dist/SwordFish.exe` — no Python needed.
+Or just download and run `https://github.com/BayazidHabibSiddikee/swordfish_webrowser/releases/download/v1.0.0/Swordfish.exe` — no Python needed.
 
 ---
 
@@ -101,7 +101,7 @@ pkg install git python
 git clone https://github.com/BayazidHabibSiddikee/swordfish_webrowser.git
 cd swordfish_webrowser
 chmod +x requirements.sh && ./requirements.sh
-python server.py   # GUI not available on Android — server + AVR tools work fine
+python main.py
 ```
 
 ---
