@@ -9,7 +9,7 @@
  ╚══════╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-**A minimal, privacy-first browser with built-in AVR toolchain — built from scratch in Python.**
+**A minimal, privacy-first browser — built from scratch in Python.**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![PySide6](https://img.shields.io/badge/PySide6-6.5+-41CD52?style=flat-square&logo=qt&logoColor=white)](https://pypi.org/project/PySide6/)
