@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐟 SwordFish Browser
 
 SwordFish is a simple, minimal, and privacy-focused web browser designed for users who want a clean browsing experience without tracking or bloat.
@@ -48,3 +49,7 @@ SwordFish is designed to be a learning resource. You are encouraged to explore a
 ## ⚖️ License
 
 This project is open for modification and educational use.
+=======
+# swordfish_webrowser
+It's a simple minimal webbrowser who doesn't track people's data, it doesn't include any personal settings, cache, but it's helpful to download videos, also you can check the source file to edit for yourself
+>>>>>>> 65c85cfbfeae015d79469b6d27aa75ef9064b952
