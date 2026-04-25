@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SwordFish
+GenericName=AVR Control Plane
+Comment=AVR build, flash, and web terminal
+# EDIT THIS: full path to your swordfish.sh
+Exec=/home/bayazid/.swordfish/swordfish.sh
+# EDIT THIS: full path to an icon (png or svg), or remove line to use default
+Icon=/home/bayazid/.swordfish/icon.png
+Terminal=false
+Categories=Development;Engineering;Electronics;
+Keywords=avr;microcontroller;arduino;flash;
+StartupNotify=true
